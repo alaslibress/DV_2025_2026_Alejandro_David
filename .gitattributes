@@ -1,0 +1,5 @@
+*.png !text !filter !merge !diff
+*.jpg !text !filter !merge !diff
+*.unity !text !filter !merge !diff
+*.prefab !text !filter !merge !diff
+*.asset !text !filter !merge !diff
